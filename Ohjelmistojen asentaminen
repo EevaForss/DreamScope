@@ -1,0 +1,15 @@
+# Ohjelmistojen asentaminen
+
+Tässä dokumentaatiossa kuvataan, kuinka tarvittavat ohjelmistot asennetaan DreamScope-sovelluksen kehittämistä varten.
+
+---
+
+## 1. Git
+Git on versionhallintatyökalu, jota käytän projektin hallintaan.
+
+## Asennus:
+1. Lataa Git [viralliselta sivustolta] (https://git-scm.com/).
+2. Asenna Git noudattamalla asennusohjelman ohjeita.
+3. Tarkista, että Git toimii avaamalla terminaali ja kirjoittamalla:
+```bash
+git --version
